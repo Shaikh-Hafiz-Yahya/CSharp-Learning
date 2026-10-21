@@ -21,7 +21,8 @@ namespace PrivateAttributes
 
             Console.WriteLine(CompObj.GetPrivateDocs()); // Method k through private Attr access.
 
-            Console.WriteLine(CompObj.GetSecrates());
+            Console.WriteLine(CompObj.GetSecrates()); // Method k through private Attr access.
+
             Console.ReadLine(); // Console ko open rakhega
 
         }
